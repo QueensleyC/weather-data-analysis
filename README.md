@@ -44,4 +44,10 @@ Some of the SQL keywords used in this project include
  
 ### Dependencies
 The [requirements.txt file](/requirements.txt) contains the libraries needed for this project to run on a PC. 
+
 Run `pip install -r requirements.txt` in a terminal to install the necessary libraries
+
+### Results
+The key findings, insights, visualisations, graphs and conclusions from this data analysis have all been documented in the [Report.pdf](/Report.pdf).
+
+For any questions or feedback, you can reach me at ebyqueensley1@gmail.com.
