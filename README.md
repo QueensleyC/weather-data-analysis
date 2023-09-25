@@ -41,3 +41,7 @@ Some of the SQL keywords used in this project include
 - Some of the libraries used in this project are numpy, pandas, matplotlib, scipy, Kmeans, MLPRegressor, DecisionTreeClassifier, ARIMA, GradientBoostingClassifier, MinMaxScaler, RandomForestRegressor, etc.
 - Hypothesis tested:
     - Tests for a significant relationship between each column (except timestamp column) and the demand rate.
+ 
+### Dependencies
+The [requirements.txt file](/requirements.txt) contains the libraries needed for this project to run on a PC. 
+Run `pip install -r requirements.txt` in a terminal to install the necessary libraries
