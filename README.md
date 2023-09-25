@@ -11,6 +11,9 @@ This project is aimed at answering indepth statistical questions concerning the 
 SQL was used to clean the data while python was used for statistical analysis as well as to obtaining meaningful insight from the data
 
 ### Data Description
+The dataset used in this project is a modified version of [this dataset](https://zenodo.org/record/3689521).
+
+
 The dataset contains information about the customers’ demand rate between 
 January 2017 and August 2018. The data were collected on an hourly basis and included
 the time data such as date, hour, and season as well as weather data such as the weather 
